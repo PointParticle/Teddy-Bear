@@ -1,6 +1,4 @@
-Sure, here is the updated README with your email included:
 
----
 
 # Teddy Bear - Div Tag Manipulation and Animation
 
